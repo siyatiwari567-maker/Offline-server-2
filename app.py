@@ -95,7 +95,7 @@ PAGE_HTML = '''
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PradYumna xwD NON-STOP SERVER</title>
+  <title>Anuj x3 aYaan NON-STOP SERVER</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -256,4 +256,5 @@ PAGE_HTML = '''
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5040)
         
+
 
